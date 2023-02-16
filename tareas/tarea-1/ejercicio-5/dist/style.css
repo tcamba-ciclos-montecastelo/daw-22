@@ -1,0 +1,16 @@
+body {
+    width: 100%;
+    height: 500px;
+    flex-direction: row;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#app {
+    font-size: 60px;
+}
+
+#clock {
+  justify-content: center;
+}
